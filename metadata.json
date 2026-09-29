@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Elevator - The Endless Floors",
+  "description": "A 3D first-person elevator experience where you travel between surreal floors and encounter unpredictable, hilarious, and bizarre scenes every time the doors open.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
